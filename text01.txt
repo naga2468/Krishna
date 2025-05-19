@@ -1,4 +1,5 @@
-hi how are you!
-Wel come to AWS
+Hi, how are you?
+Welcome to AWS
 WQ!
 Thank you 
+Example: Build a WhatsApp application 

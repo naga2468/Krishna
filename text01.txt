@@ -1,7 +1,11 @@
-hi how are you!
-Wel come to AWS
+
+
+
+Hi, how are you?
+Welcome to AWS
 WQ!
 Thank you 
+<<<<<<< HEAD
 
 ===========================
 
@@ -11,3 +15,11 @@ softer build
 WEB APP deployment
 
 =========================
+=======
+Example: Build a WhatsApp application
+
+
+hello 
+hi Good Morning 
+
+>>>>>>> 8593d6007757a560a16de9f4c1777fa71f5d9d32
